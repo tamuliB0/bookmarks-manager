@@ -58,3 +58,14 @@ Populate your local MySQL instance using the pre-configured database schema file
 ```bash
 ddev import-db --file=schema.sql
 ```
+## 💻 Usage
+
+### 🌐 Live Demo
+You can try out the live production build of the application here:
+👉 **[Live Demo Dashboard](http://www.bhardwaj.lovestoblog.com/bookmarks/)**
+
+---
+### 🏠 Local Development
+Once your DDEV containers are fully up and running locally, you can access your local development instance in your browser:
+
+* **Local URL:** `https://bookmarks-manager.ddev.site`
